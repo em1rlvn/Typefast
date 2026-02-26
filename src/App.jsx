@@ -5,7 +5,7 @@ import Timer from "./components/Timer";
 import TextDisplay from "./components/TextDisplay";
 import InputField from "./components/InputField";
 import Result from "./components/Result";
-import Navbar from "./components/Navbar";
+import Navbar from "@components/Navbar";
 
 function App() {
   const [text, setText] = useState("");
