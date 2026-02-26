@@ -137,10 +137,6 @@ h1:hover {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-/* ────────────────────────────────────────────── */
-/* Text Display + символы (по буквам)             */
-/* ────────────────────────────────────────────── */
-
 .text-display {
   font-family: 'Courier New', Courier, monospace;
   font-size: clamp(1.3rem, 3.5vw, 2.2rem);
